@@ -17,7 +17,7 @@ If an issue requesting an extension is tagged with the `needs infrastructure` la
 
 **Pull Requests are disabled on this fork.** This is intentional.
 
-This fork uses the **Forge Protocol AI-Only Development Model** ([ADR-011](https://github.com/royalbit/forge-protocol/blob/main/docs/adr/011-ai-only-development-no-external-prs.md)).
+This fork uses the **Asimov Protocol AI-Only Development Model** ([ADR-011](https://github.com/royalbit/asimov-protocol/blob/main/docs/adr/011-ai-only-development-no-external-prs.md)).
 
 External PRs are an **attack vector for ethics bypass**. The trust model is:
 
